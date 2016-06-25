@@ -1,4 +1,4 @@
-﻿/* 
+/* 
  * Based on:
  * 
  * List all attachments when clicking the paperclip
