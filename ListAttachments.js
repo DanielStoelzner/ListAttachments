@@ -22,8 +22,8 @@
  * 
  * Blog Article: http://spoodoo.com/open-list-item-attachments-by-clicking-the-paperclip-version-2/
  *
- * v2.5.0BETA2 for SharePoint 2013 and SharePoint Online
- * Last Modification: June 24st, 2015
+ * v2.5.0 for SharePoint 2013 and SharePoint Online
+ * Last Modification: August 1st, 2017
  * 
  * Instructions:
  * 1. Place the code in a CEWP or Script Editor Webpart or reference the script-file
@@ -280,6 +280,7 @@ function listAttachments(){
 						"  left: 15px;" +
 						"  height: 30px;" +
 						"  width: 35px; " +
+						"  background-color: rgba(0,0,0,0); " +
 						"}" +
 						"#attachmentInnerBubble:after {" +
 						"  content: '';" +
